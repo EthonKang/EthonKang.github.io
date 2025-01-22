@@ -35,7 +35,7 @@ exclude:
 social:
   name: Songzi Vong
   links:
-    - https://twitter.com/vszhub
+    # - https://twitter.com/vszhub
     - https://github.com/vszhub
 google_site_verification: xxxxx
 lang: en
