@@ -60,8 +60,6 @@
 
 
 
-
-
 # Setup
 title: Yisen Kang
 description: PhD Student at the Central South University, Faculty of Computer Science
@@ -114,7 +112,7 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Yisen Kang  #
-  url: https://github.com/EthonKang/  # 
-  email: 244701056@csu.edu.cn  #
+  name: Yisen Kang  # 你的名字
+  url: https://github.com/EthonKang/  # 修改为你的GitHub主页
+  email: 244701056@csu.edu.cn  # 修改为你的电子邮箱
 
