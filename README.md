@@ -2,7 +2,6 @@
   <tr>
     <td width="180" valign="center">
       <img src="ksir.jpg" alt="ksir" height="200">
-    </td>
     <td valign="top">
 
 # Ethon Kang <!-- omit in toc -->
@@ -16,8 +15,6 @@
 > I'm a beginner, **hope for your guidance**.
 >
 > -- <a href="https://github.com/EthonKang/EthonKang.github.io/"><cite>Ethon Kang</cite></a>
-
-    </td>
   </tr>
 </table>
 
