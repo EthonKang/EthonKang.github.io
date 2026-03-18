@@ -8,7 +8,7 @@
 # Ethon Kang <!-- omit in toc -->
 
 <a href="https://jekyll-themes.com">
-  <img src="https://img.shields.io/badge/featured%20on-JekyllThemes-red.svg" height="100" alt="Jekyll Themes Shield">
+  <img src="https://img.shields.io/badge/featured%20on-JekyllThemes-red.svg" height="20" alt="Jekyll Themes Shield">
 </a>
 
 **Ethon Kang** is a PhD student in Computer Science and Engineering at Central South University, expected to graduate in 2028.
