@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td width="180" valign="top">
+    <td width="180" valign="center">
       <img src="ksir.jpg" alt="ksir" height="200">
     </td>
     <td valign="top">
