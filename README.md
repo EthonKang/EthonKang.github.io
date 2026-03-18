@@ -21,7 +21,7 @@
 ## Table of Contents <!-- omit in toc -->
 
 - [Researches](#Researches)
-- [Installation](#installation)
+- [Latest Publications](#Latest Publications)
 - [Usage](#usage)
   - [Configuration](#configuration)
   - [Customizing Head](#customizing-head)
@@ -56,7 +56,7 @@
 - Support for a wide gamut of HTML elements
 - Syntax highlighting, courtesy Pygments (the Python-based code snippet highlighter)
 
-## Installation
+## Latest Publications
 
 You can choose one of the following methods to install Not Pure Poole:
 
