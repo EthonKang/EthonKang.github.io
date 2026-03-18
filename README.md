@@ -23,8 +23,7 @@
 - [Researches](#Researches)
 - [Publications](#Publication)
 - [Awards](#Awards)
-
-- 
+- [Education](#Education)
 - [Publications3](#Publication3)
 - [Usage](#usage)
   - [Configuration](#configuration)
@@ -154,6 +153,11 @@
 - **Top 30 / 159**, SF Elite Challenge, 2022
 - **Third Prize**, 21st Huawei Cup China Graduate Mathematical Contest in Modeling, 2024
 - **Third Prize**, 22nd Huawei Cup China Graduate Mathematical Contest in Modeling, 2025
+
+## Education
+- B.Eng. in Communication Engineering, Hunan Institute of Science and Technology
+- M.Eng. in Electronic Information, Hunan Normal University
+- Ph.D. in Computer Science and Engineering, Central South University
 
 
 ## Publications3
