@@ -13,7 +13,7 @@
 -----
 
 <p align="center">
-  <img src="ksir.jpg" alt="Screenshot" width="400">
+  <img src="ksir.jpg" alt="Screenshot" width="100">
 </p>
 
 ## Table of Contents <!-- omit in toc -->
