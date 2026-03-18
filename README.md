@@ -64,14 +64,87 @@
   </div> 
 </div>
 
+<div class="publication-item"> 
+  <div class="publication-title">Image Shadow Detection and Removal via Illumination Estimation and Chromaticity Guidance</div> 
+  <div class="publication-authors">
+    Yang Li, Jindong He, Dengpeng Zou, <strong>Yisen Kang</strong>, Wei Xiang, Fang Qi, Zhe Tang
+  </div> 
+  <div class="publication-venue">
+    <em>IEEE Transactions on Automation Science and Engineering</em>, 2026
+  </div> 
+  <div class="publication-links">
+    <a href="#" target="_blank">[PDF]</a>
+    <a href="https://doi.org/10.1109/TASE.2025.3595929" target="_blank">[DOI]</a>
+  </div> 
+  <div class="publication-abstract">
+    <details>
+      <summary>Abstract</summary>
+      <p>Current deep learning-based shadow detection and removal algorithms exhibit critical limitations in adequately modeling the physical properties of shadows and exploring their inherent luminance and chrominance characteristics. To tackle these challenges, this paper proposes a shadow detection and removal model via illumination estimation and chromaticity guidance (CI-GAN).</p>
+    </details>
+  </div> 
+</div>
 
-- TSNet with Sigma-Adaptive Spectral Sampling for Tea Moisture Monitoring. (JCR 2)
-- Sensor-Integrated Transformer-RF Model for HAR.
-- Enhanced Sensitivity of SPR Sensor Using Au@Bi2Se3 Core-Shell Nanoparticles and Lead Ion Detection.
-- FireSonic: Design and Implementation of an Ultrasound Sensing-Based Fire Type Identification System.
-- Image Shadow Detection and Removal via Illumination Estimation and Chromaticity Guidance.
-- 
-- 
+**2025**
+<div class="publication-item"> 
+  <div class="publication-title">Enhanced Sensitivity of SPR Sensor Using Au@Bi<sub>2</sub>Se<sub>3</sub> Core-Shell Nanoparticles and Lead Ion Detection</div> 
+  <div class="publication-authors">
+    Tingyu Wang, <strong>Yisen Kang</strong>, Leyong Jiang, Zhiwei Zheng, Shan Liang
+  </div> 
+  <div class="publication-venue">
+    <em>IEEE Sensors Journal</em>, 2025
+  </div> 
+  <div class="publication-links">
+    <a href="#" target="_blank">[PDF]</a>
+    <a href="https://doi.org/10.1109/JSEN.2025.3605113" target="_blank">[DOI]</a>
+  </div> 
+  <div class="publication-abstract">
+    <details>
+      <summary>Abstract</summary>
+      <p>Surface Plasmon Resonance (SPR) sensors are widely used for sensitive and label-free detection in various fields, but their performance is often limited by the low sensitivity and non-specific targeting of conventional gold film-based sensors. This study proposes a novel SPR sensor incorporating gold nanocubes (AuNCs) and bismuth selenide (Bi<sub>2</sub>Se<sub>3</sub>) in a core-shell structure (Au@Bi<sub>2</sub>Se<sub>3</sub>) to enhance sensor performance. By utilizing the seed-mediated growth method, Au@Bi<sub>2</sub>Se<sub>3</sub> particles were prepared and integrated with a gold film-based SPR platform for the detection of lead ions (Pb<sup>2+</sup>). Experimental results showed that the sensor fabricated with Au@Bi<sub>2</sub>Se<sub>3</sub> particles exhibited a sensitivity of 6522.72 nm/RIU, surpassing the performance of conventional SPR sensors. Additionally, the sensor demonstrated excellent detecting capabilities for lead ion, with a linear relationship observed between the reflectance curve and Pb<sup>2+</sup> concentration. This study highlights the potential of the Au@Bi<sub>2</sub>Se<sub>3</sub> core-shell structure to significantly improve SPR biosensor sensitivity and specificity, offering promising applications in environmental monitoring and medical diagnostics.</p>
+    </details>
+  </div> 
+</div>
+
+**2024**
+<div class="publication-item"> 
+  <div class="publication-title">Sensor-Integrated Transformer-RF Model for HAR</div> 
+  <div class="publication-authors">
+    <strong>Yisen Kang</strong>, Zheng Wang, Xiaoqi Sun, Huan Wang, Ruiqi Lu, Dengpeng Zou, Mingyuan Liao, Xiaokang Shi, Yanwen Wang, Renfa Li
+  </div> 
+  <div class="publication-venue">
+    <em>2024 IEEE 30th International Conference on Parallel and Distributed Systems (ICPADS)</em>, 2024
+  </div> 
+  <div class="publication-links">
+    <a href="#" target="_blank">[PDF]</a>
+    <a href="https://doi.org/10.1109/ICPADS63350.2024.00084" target="_blank">[DOI]</a>
+  </div> 
+  <div class="publication-abstract">
+    <details>
+      <summary>Abstract</summary>
+      <p>This paper proposes a HAR algorithm based on Transformer and Random Forest (RF), introducing a sensor-integrated Transformer-RF model for human activity recognition.</p>
+    </details>
+  </div> 
+</div>
+
+<div class="publication-item"> 
+  <div class="publication-title">FireSonic: Design and Implementation of an Ultrasound Sensing-Based Fire Type Identification System</div> 
+  <div class="publication-authors">
+    Zheng Wang, Yanwen Wang, Mingyuan Liao, Yi Sun, Shuke Wang, Xiaoqi Sun, Xiaokang Shi, <strong>Yisen Kang</strong>, Mi Tian, Tong Bao, Ruiqi Lu
+  </div> 
+  <div class="publication-venue">
+    <em>Sensors</em>, 2024, 24(13): 4360
+  </div> 
+  <div class="publication-links">
+    <a href="https://www.mdpi.com/1424-8220/24/13/4360/pdf" target="_blank">[PDF]</a>
+    <a href="https://doi.org/10.3390/s24134360" target="_blank">[DOI]</a>
+  </div> 
+  <div class="publication-abstract">
+    <details>
+      <summary>Abstract</summary>
+      <p>This paper introduces FireSonic, an acoustic sensing system that leverages ultrasound signals for fire type identification. The system is designed to provide accurate and prompt recognition of different fire sources under real-world conditions, aiming to improve firefighting response and reduce damage.</p>
+    </details>
+  </div> 
+</div>
 
 
 ## Publications2
