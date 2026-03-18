@@ -8,7 +8,7 @@
 
 > I'm a beginner, **hope for your guidance**.
 >
-> -- <a href="https://github.com/EthonKang/EthonKang.github.io/"><cite>The death of Jekyll</cite></a>
+> -- <a href="https://github.com/EthonKang/EthonKang.github.io/"><cite>Ethon Kang</cite></a>
 
 -----
 
