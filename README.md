@@ -12,7 +12,9 @@
 
 -----
 
-![Screenshot](ksir.jpg)
+<p align="center">
+  <img src="ksir.jpg" alt="Screenshot" width="400">
+</p>
 
 ## Table of Contents <!-- omit in toc -->
 
