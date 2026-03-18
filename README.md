@@ -6,7 +6,7 @@
 
 **Ethon Kang** is a PhD student in Computer Science and Engineering at Central South University, expected to graduate in 2028.
 
-> Poole explains that Jekyll has been asking for a particular chemical for days now but every time it has been fetched for him he rejects it as **not pure**. Poole also explains that he caught a glimpse of the man inside and he looked barely human.
+> I'm a beginner, **hope for your guidance**.
 >
 > -- <a href="https://www.bbc.co.uk/bitesize/guides/zbtjnrd/revision/6"><cite>The death of Jekyll</cite></a>
 
