@@ -43,8 +43,12 @@
 
 
 ## Publications
-**2024**
-<div class="publication-item"> <div class="publication-title"> TSNet with Sigma-Adaptive Spectral Sampling for Real-Time Tea Moisture Monitoring in Industrial Processing </div> <div class="publication-authors"> <strong>Your Name</strong>, Co-Author A, Co-Author B </div> <div class="publication-venue"> <em>Journal of Food Measurement and Characterization</em>, 2024 </div> <div class="publication-links"> <a href="#" target="_blank">[PDF]</a> <a href="#" target="_blank">[DOI]</a> <a href="#" target="_blank">[Code]</a> <a href="#" target="_blank">[Project Page]</a> </div> <div class="publication-abstract"> <details> <summary>Abstract</summary> <p>We propose TSNet, a lightweight transformer network with sigma-adaptive spectral sampling for non-destructive tea moisture monitoring. The method achieves real-time prediction with 98.3% accuracy, enabling inline quality control in tea processing.</p> </details> </div> </div>
+**2026**
+<div class="publication-item"> 
+  <div class="publication-title"> TSNet with Sigma-Adaptive Spectral Sampling for Real-Time Tea Moisture Monitoring in Industrial Processing </div> 
+  <div class="publication-authors">
+    <strong>Yisen Kang</strong>, Co-Author Zhe Tang, Co-Author Fang Qi </div> <div class="publication-venue"> <em>Journal of Food Measurement and Characterization</em>, 2026 </div> 
+  <div class="publication-links"> <a href="#" target="_blank">[PDF]</a> <a href="#" target="_blank">[DOI]</a> <a href="#" target="_blank">[Code]</a> <a href="#" target="_blank">[Project Page]</a> </div> <div class="publication-abstract"> <details> <summary>Abstract</summary> <p>We propose TSNet, a lightweight transformer network with sigma-adaptive spectral sampling for non-destructive tea moisture monitoring. The method achieves real-time prediction with 98.3% accuracy, enabling inline quality control in tea processing.</p> </details> </div> </div>
 
 
 
