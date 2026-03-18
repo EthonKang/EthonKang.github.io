@@ -47,7 +47,7 @@
 <div class="publication-item"> 
   <div class="publication-title">TSNet with Sigma-Adaptive Spectral Sampling for Real-Time Tea Moisture Monitoring in Industrial Processing</div> 
   <div class="publication-authors">
-    <strong>Yisen Kang</strong>, Zhe Tang, Fang Qi, etc.
+    <strong>Yisen Kang</strong>, Fang Qi, Liyuan Deng, Dengpeng Zou, Huan Wang, Yang Li, Yang Wei, Xinlin Wei, Zhe Tang
   </div> 
   <div class="publication-venue">
     <em>Journal of Food Measurement and Characterization</em>, 2026
