@@ -1,7 +1,14 @@
+<table>
+  <tr>
+    <td width="180" valign="top">
+      <img src="ksir.jpg" alt="ksir" height="170">
+    </td>
+    <td valign="top">
+
 # Ethon Kang <!-- omit in toc -->
 
 <a href="https://jekyll-themes.com">
-  <img src="https://img.shields.io/badge/featured%20on-JekyllThemes-red.svg" height="20" alt="Jekyll Themes Shield" >
+  <img src="https://img.shields.io/badge/featured%20on-JekyllThemes-red.svg" height="20" alt="Jekyll Themes Shield">
 </a>
 
 **Ethon Kang** is a PhD student in Computer Science and Engineering at Central South University, expected to graduate in 2028.
@@ -10,11 +17,9 @@
 >
 > -- <a href="https://github.com/EthonKang/EthonKang.github.io/"><cite>Ethon Kang</cite></a>
 
------
-
-<p align="center">
-  <img src="ksir.jpg" alt="Screenshot" width="100">
-</p>
+    </td>
+  </tr>
+</table>
 
 ## Table of Contents <!-- omit in toc -->
 
