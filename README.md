@@ -22,7 +22,10 @@
 
 - [Researches](#Researches)
 - [Publications](#Publication)
-- [Publications2](#Publication2)
+- [Awards](#Awards)
+
+- 
+- [Publications3](#Publication3)
 - [Usage](#usage)
   - [Configuration](#configuration)
   - [Customizing Head](#customizing-head)
@@ -146,8 +149,14 @@
   </div> 
 </div>
 
+## Awards
+- **Third Prize**, 18th Huawei Cup China Graduate Mathematical Contest in Modeling, 2021
+- **Top 30 / 159**, SF Elite Challenge, 2022
+- **Third Prize**, 21st Huawei Cup China Graduate Mathematical Contest in Modeling, 2024
+- **Third Prize**, 22nd Huawei Cup China Graduate Mathematical Contest in Modeling, 2025
 
-## Publications2
+
+## Publications3
 
 You can choose one of the following methods to install Not Pure Poole:
 
