@@ -20,7 +20,7 @@
 
 ## Table of Contents <!-- omit in toc -->
 
-- [Features](#features)
+- [Researches](#Researches)
 - [Installation](#installation)
 - [Usage](#usage)
   - [Configuration](#configuration)
@@ -36,7 +36,7 @@
 - [Development](#development)
 - [License](#license)
 
-## Features
+## Researches
 
 - [Jekyll SEO Tag](https://github.com/jekyll/jekyll-seo-tag)
 - [Jekyll Feed](https://github.com/jekyll/jekyll-feed)
