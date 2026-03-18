@@ -43,8 +43,18 @@
 
 
 ## Publications
-- PhD Candidate specializing in AI-driven algorithms for agricultural equipment, including object detection, regression, and domain adaptation. 
-- Developing intelligent solutions for agriculture through computer vision and machine learning.
+**2024**
+<div class="publication-item"> <div class="publication-title"> TSNet with Sigma-Adaptive Spectral Sampling for Real-Time Tea Moisture Monitoring in Industrial Processing </div> <div class="publication-authors"> <strong>Your Name</strong>, Co-Author A, Co-Author B </div> <div class="publication-venue"> <em>Journal of Food Measurement and Characterization</em>, 2024 </div> <div class="publication-links"> <a href="#" target="_blank">[PDF]</a> <a href="#" target="_blank">[DOI]</a> <a href="#" target="_blank">[Code]</a> <a href="#" target="_blank">[Project Page]</a> </div> <div class="publication-abstract"> <details> <summary>Abstract</summary> <p>We propose TSNet, a lightweight transformer network with sigma-adaptive spectral sampling for non-destructive tea moisture monitoring. The method achieves real-time prediction with 98.3% accuracy, enabling inline quality control in tea processing.</p> </details> </div> </div>
+
+
+
+- TSNet with Sigma-Adaptive Spectral Sampling for Tea Moisture Monitoring. (JCR 2)
+- Sensor-Integrated Transformer-RF Model for HAR.
+- Enhanced Sensitivity of SPR Sensor Using Au@Bi2Se3 Core-Shell Nanoparticles and Lead Ion Detection.
+- FireSonic: Design and Implementation of an Ultrasound Sensing-Based Fire Type Identification System.
+- Image Shadow Detection and Removal via Illumination Estimation and Chromaticity Guidance.
+- 
+- 
 
 
 ## Publications2
