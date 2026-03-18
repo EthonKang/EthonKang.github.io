@@ -45,11 +45,24 @@
 ## Publications
 **2026**
 <div class="publication-item"> 
-  <div class="publication-title"> TSNet with Sigma-Adaptive Spectral Sampling for Real-Time Tea Moisture Monitoring in Industrial Processing </div> 
+  <div class="publication-title">TSNet with Sigma-Adaptive Spectral Sampling for Real-Time Tea Moisture Monitoring in Industrial Processing</div> 
   <div class="publication-authors">
-    <strong>Yisen Kang</strong>, Co-Author Zhe Tang, Co-Author Fang Qi </div> <div class="publication-venue"> <em>Journal of Food Measurement and Characterization</em>, 2026 </div> 
-  <div class="publication-links"> <a href="#" target="_blank">[PDF]</a> <a href="#" target="_blank">[DOI]</a> <a href="#" target="_blank">[Code]</a> <a href="#" target="_blank">[Project Page]</a> </div> <div class="publication-abstract"> <details> <summary>Abstract</summary> <p>We propose TSNet, a lightweight transformer network with sigma-adaptive spectral sampling for non-destructive tea moisture monitoring. The method achieves real-time prediction with 98.3% accuracy, enabling inline quality control in tea processing.</p> </details> </div> </div>
-
+    <strong>Yisen Kang</strong>, Zhe Tang, Fang Qi, etc.
+  </div> 
+  <div class="publication-venue">
+    <em>Journal of Food Measurement and Characterization</em>, 2026
+  </div> 
+  <div class="publication-links">
+    <a href="#" target="_blank">[PDF]</a>
+    <a href="#" target="_blank">[DOI]</a>
+  </div> 
+  <div class="publication-abstract">
+    <details>
+      <summary>Abstract</summary>
+      <p>Accurate, non-destructive estimation of leaf moisture during tea withering is foundational for closed-loop control and quality assurance in industrial tea processing.Although near-infrared spectroscopy is widely adopted for this purpose, field deployment remains fragile: leaf folding/occlusion and pose drift introduce spectral instability and necessitate frequent recalibration, undermining robustness and scalability.To overcome these limitations, we develop SpecTea, an end-to-end system that integrates robust spectral acquisition, sequence modeling, and real-time inference.The method exploits the dynamics of withering to enhance spectral separability and reduce information entropy, and introduces a SASS strategy that combines spatially adaptive five-point segmentation with dynamic Poisson-disk sampling to select informative regions.A custom spectroscopic apparatus secures representative measurements, which are modeled by TSNet, a sequence architecture that fuses self-attention with GRUs for moisture prediction.On held-out tests, TSNet achieves a correlation coefficient of 0.9917, an RMSE of 2.7612, and an RPD of 2.7552, surpassing traditional machine-learning baselines and recent deep models.The SASS-enabled acquisition consistently reduces inter-spectral variance, improving generalization across batches and processing conditions. When deployed on the withering line, the system attains an average error of 3.89\%, comfortably meeting the $\leq 5\%$ industrial threshold and demonstrating stable online performance despite leaf pose and occlusion variations. The approach also lowers recalibration frequency, reducing operational burden and downtime. By unifying adaptive sampling with attention-based sequence learning in a deployable pipeline, SpecTea delivers a practical, scalable solution for real-time NIR moisture sensing, offering a transferable blueprint for robust quality control in tea manufacturing and related agri-food processes.</p>
+    </details>
+  </div> 
+</div>
 
 
 - TSNet with Sigma-Adaptive Spectral Sampling for Tea Moisture Monitoring. (JCR 2)
