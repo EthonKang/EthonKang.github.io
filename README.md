@@ -12,7 +12,7 @@
 
 **Ethon Kang** is a PhD student in Computer Science and Engineering at Central South University, expected to graduate in 2028.
 
-> I'm a beginner, **hope for your guidance**.
+> My current research interests cover machine learning and computer vision, involving few-shot learning, domain adaptation learning, and visual and language learning, among other topics..
 >
 > -- <a href="https://github.com/EthonKang/EthonKang.github.io/"><cite>Ethon Kang</cite></a>
   </tr>
