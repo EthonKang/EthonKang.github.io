@@ -22,6 +22,7 @@
 
 - [Researches](#Researches)
 - [Publications](#Publication)
+- [Publications2](#Publication2)
 - [Usage](#usage)
   - [Configuration](#configuration)
   - [Customizing Head](#customizing-head)
@@ -40,7 +41,13 @@
 - PhD Candidate specializing in AI-driven algorithms for agricultural equipment, including object detection, regression, and domain adaptation. 
 - Developing intelligent solutions for agriculture through computer vision and machine learning.
 
+
 ## Publications
+- PhD Candidate specializing in AI-driven algorithms for agricultural equipment, including object detection, regression, and domain adaptation. 
+- Developing intelligent solutions for agriculture through computer vision and machine learning.
+
+
+## Publications2
 
 You can choose one of the following methods to install Not Pure Poole:
 
