@@ -12,7 +12,7 @@
 
 -----
 
-![Screenshot](screenshot.png)
+![Screenshot](ksir.jpg)
 
 ## Table of Contents <!-- omit in toc -->
 
