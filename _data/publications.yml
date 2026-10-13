@@ -1,0 +1,37 @@
+main:
+
+  - title: "QuantWear: Quantum-scale Wear Particle Detection for Jet Engine Diagnosis"
+    authors: Zheng Wang, Yanwen Wang, Tianyu Fang, Jiaxing Shen, <strong>Yisen Kang</strong>, Di Wu, Yuanqing Zheng
+    conference_short: ICML
+    conference: International Conference on Machine Learning <strong>(ICML)</strong>, 2026.
+    notes: CCF-A
+
+  - title: "Image Shadow Detection and Removal via Illumination Estimation and Chromaticity Guidance"
+    authors: Yang Li, Jindong He, Dengpeng Zou, <strong>Yisen Kang</strong>, Wei Xiang, Fang Qi, Zhe Tang
+    conference_short: T-ASE
+    conference: IEEE Transactions on Automation Science and Engineering <strong>(T-ASE)</strong>, 23&#58; 3661–3672, 2026.
+
+  - title: "TSNet with Sigma-Adaptive Spectral Sampling for Tea Moisture Monitoring"
+    authors: <strong>Yisen Kang</strong>, Fang Qi, Liyuan Deng, Dengpeng Zou, Huan Wang, Yang Li, Yang Wei, Xinlin Wei, Zhe Tang
+    conference_short: JFMC
+    conference: Journal of Food Measurement and Characterization, 20&#58; 8956–8971, 2026.
+    pdf: https://doi.org/10.1007/s11694-026-04244-7
+    notes: First Author
+
+  - title: "Enhanced Sensitivity of SPR Sensor Using Au@Bi₂Se₃ Core-Shell Nanoparticles and Lead Ion Detection"
+    authors: Tingyu Wang, <strong>Yisen Kang</strong>, Leyong Jiang, Zhiwei Zheng, Shan Liang
+    conference_short: IEEE SJ
+    conference: IEEE Sensors Journal, 25(20)&#58; 37909–37915, 2025.
+    pdf: https://doi.org/10.1109/JSEN.2025.3605113
+
+  - title: "Sensor-Integrated Transformer-RF Model for HAR"
+    authors: <strong>Yisen Kang</strong>, Zheng Wang, Xiaoqi Sun, Huan Wang, Ruiqi Lu, Dengpeng Zou, Mingyuan Liao, Xiaokang Shi, Yanwen Wang, Renfa Li
+    conference_short: ICPADS
+    conference: IEEE International Conference on Parallel and Distributed Systems <strong>(ICPADS)</strong>, 2024.
+    notes: First Author
+
+  - title: "FireSonic: Design and Implementation of an Ultrasound Sensing-Based Fire Type Identification System"
+    authors: Zheng Wang, Yanwen Wang, Mingyuan Liao, Yi Sun, Shuke Wang, Xiaoqi Sun, Xiaokang Shi, <strong>Yisen Kang</strong>, Mi Tian, Tong Bao, Ruiqi Lu
+    conference_short: Sensors
+    conference: Sensors, 24(13)&#58; 4360, 2024.
+    pdf: https://doi.org/10.3390/s24134360

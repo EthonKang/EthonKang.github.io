@@ -1,4 +1,5 @@
 source "https://rubygems.org"
-gemspec
 
-gem 'jekyll-compose', group: [:jekyll_plugins]
+gem "jekyll", "~> 3.8.5"
+
+gem "webrick", "~> 1.8"
