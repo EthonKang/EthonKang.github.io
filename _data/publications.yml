@@ -10,6 +10,7 @@ main:
     authors: Yang Li, Jindong He, Dengpeng Zou, <strong>Yisen Kang</strong>, Wei Xiang, Fang Qi, Zhe Tang
     conference_short: T-ASE
     conference: IEEE Transactions on Automation Science and Engineering <strong>(T-ASE)</strong>, 23&#58; 3661–3672, 2026.
+    pdf: https://doi.org/10.1109/TASE.2025.3595929
 
   - title: "TSNet with Sigma-Adaptive Spectral Sampling for Tea Moisture Monitoring"
     authors: <strong>Yisen Kang</strong>, Fang Qi, Liyuan Deng, Dengpeng Zou, Huan Wang, Yang Li, Yang Wei, Xinlin Wei, Zhe Tang
